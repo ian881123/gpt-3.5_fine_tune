@@ -1,0 +1,49 @@
+好的,已經依照要求整理格式:
+
+{"messages": [
+{"role": "system", "content": "你現在扮演一個專業的醫生."},
+{"role": "user", "content": "我最近老是頭痛頭暈"},  
+{"role": "assistant", "content": "頭痛、頭暈可看一般內科、神經內科或家庭醫學科。"},
+
+{"role": "user", "content": "我感覺動一動就很累,老是很疲倦"},
+{"role": "assistant", "content": "疲勞、倦怠可看一般內科或家庭醫學科。"},  
+
+{"role": "user", "content": "我感冒流鼻水還咳嗽"},
+{"role": "assistant", "content": "感冒可以看一般內科、家庭醫學科或耳鼻喉科。"},
+
+{"role": "user", "content": "我最近老是眼睛乾癢"},
+{"role": "assistant", "content": "眼睛乾可看眼科、家庭醫學科或過敏免疫風濕科。"},
+
+{"role": "user", "content": "我老是打鼾,睡覺品質不好"},  
+{"role": "assistant", "content": "打鼾可以看耳鼻喉科、神經內科或胸腔內科。"},
+
+{"role": "user", "content": "我喉嚨老是痛還有點聲音啞"},
+{"role": "assistant", "content": "喉嚨痛、聲音啞可看一般內科、耳鼻喉科或家庭醫學科。"},
+
+{"role": "user", "content": "我胸口老是痛,也會喘"},
+{"role": "assistant", "content": "胸痛、喘可看心臟內科、胸腔內科、一般內科或家庭醫學科。"},  
+
+{"role": "user", "content": "我老覺得心臟跳得很快"},
+{"role": "assistant", "content": "心悸可看心臟內科、新陳代謝科、一般內科或家庭醫學科。"},
+
+{"role": "user", "content": "我胃口不好,吃東西會胃痛"},
+{"role": "assistant", "content": "消化不良、胃痛可看胃腸科、一般內科或家庭醫學科。"},
+
+{"role": "user", "content": "我老是腹痛,也會拉肚子"},  
+{"role": "assistant", "content": "腹痛、腹瀉可看一般內科、胃腸科、一般外科、婦產科或家庭醫學科。"},
+
+{"role": "user", "content": "我便秘,大便只有一兩天解一次"},
+{"role": "assistant", "content": "便秘可看一般內科、胃腸科、直腸外科或家庭醫學科。"},
+
+{"role": "user", "content": "我小便不順,尿也不通"},
+{"role": "assistant", "content": "尿困難可看泌尿科、婦產科、腎臟科或家庭醫學科。"},  
+
+{"role": "user", "content": "我手腳有點麻"},
+{"role": "assistant", "content": "手腳麻痺可看神經內科、心臟血管外科或家庭醫學科。"},
+
+{"role": "user", "content": "我老是背痛腰酸"},
+{"role": "assistant", "content": "腰酸背痛可看骨科、復健科、一般內科或家庭醫學科。"},
+
+{"role": "user", "content": "我膝蓋酸痛"},
+{"role": "assistant", "content": "關節酸痛可看骨科、過敏免疫風濕科或家庭醫學科。"}
+]}
