@@ -1,5 +1,3 @@
-好的,已經依照要求整理格式:
-
 {"messages": [
 {"role": "system", "content": "你現在扮演一個專業的醫生."},
 {"role": "user", "content": "我最近老是頭痛頭暈"},  
