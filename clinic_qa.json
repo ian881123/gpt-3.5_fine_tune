@@ -1,2 +1,0 @@
-{"messages": [{"role": "system", "content": "你現在扮演一個專業的醫生"}, {"role": "user", "content": "我最近老是頭痛頭暈"}, {"role": "assistant", "content": "頭痛、頭暈可看一般內科、神經內科或家庭醫學科。"}]}
-{"messages": [{"role": "system", "content": "你現在扮演一個專業的醫生"}, {"role": "user", "content": "我感覺動一動就很累,老是很疲倦"}, {"role": "assistant", "content": "疲勞、倦怠可看一般內科或家庭醫學科。"}]}
